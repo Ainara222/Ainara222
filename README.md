@@ -1,4 +1,4 @@
-# BIENVENIDO A MI PERFIL
+# BIENVENID@ A MI PERFIL
 
 ¡Hola! 👋 Soy Ainara, estudiante de programación y graduada en Multiplataforma.
 Actualmente en prácticas y con ganas de seguir aprendiendo.
