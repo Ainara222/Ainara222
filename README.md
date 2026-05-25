@@ -28,22 +28,15 @@
 
 ## 📊 Estadísticas de GitHub
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TUUSUARIO&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ainara222&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TUUSUARIO&layout=compact&theme=tokyonight&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ainara222&layout=compact&theme=tokyonight&hide_border=true)
 
 ---
 
 ## 🔥 Racha de contribuciones
 
-![GitHub Streak](https://streak-stats.demolab.com?user=TUUSUARIO&theme=tokyonight&hide_border=true)
-
----
-
-## 🐍 Snake Animation
-
-![snake gif](https://github.com/TUUSUARIO/TUUSUARIO/blob/output/github-contribution-grid-snake-dark.svg)
-
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Ainara222&theme=tokyonight&hide_border=true)
 ---
 
 ## 📌 Actualmente
